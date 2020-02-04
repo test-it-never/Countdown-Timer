@@ -4,7 +4,8 @@ Implemented with Win32 API.
 
 # Usage
 
-|---|---|
+| Key | Description |
+| --- | --- |
 | Enter | Start a countdown |
 | Esc | Cancel the countdown / Quit |
 | Shift | Toggle 30 seconds |
